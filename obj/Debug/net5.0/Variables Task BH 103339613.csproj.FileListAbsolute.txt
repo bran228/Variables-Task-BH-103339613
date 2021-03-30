@@ -1,0 +1,16 @@
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.exe
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.deps.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.runtimeconfig.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.runtimeconfig.dev.json
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\ref\Variables Task BH 103339613.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\bin\Debug\net5.0\Variables Task BH 103339613.pdb
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.csprojAssemblyReference.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.AssemblyInfoInputs.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.AssemblyInfo.cs
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.csproj.CoreCompileInputs.cache
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\ref\Variables Task BH 103339613.dll
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.pdb
+C:\Users\brandon's PC\Desktop\UNI WORK\ICTPRG301ICTPRG405 Intro to OO Programming\Variables Task BH 103339613\obj\Debug\net5.0\Variables Task BH 103339613.genruntimeconfig.cache
